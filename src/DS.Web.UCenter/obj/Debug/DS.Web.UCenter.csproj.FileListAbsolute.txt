@@ -5,3 +5,11 @@ C:\Users\Administrator\Desktop\云上实训000\闵\ucenterapidotnet-18413\src\DS
 C:\Users\Administrator\Desktop\云上实训000\闵\ucenterapidotnet-18413\src\DS.Web.UCenter\obj\Debug\DS.Web.UCenter.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\Desktop\云上实训000\闵\ucenterapidotnet-18413\src\DS.Web.UCenter\obj\Debug\DS.Web.UCenter.dll
 C:\Users\Administrator\Desktop\云上实训000\闵\ucenterapidotnet-18413\src\DS.Web.UCenter\obj\Debug\DS.Web.UCenter.pdb
+D:\git\ucenterapidotnet-18413\src\DS.Web.UCenter\bin\Debug\DS.Web.UCenter.dll.config
+D:\git\ucenterapidotnet-18413\src\DS.Web.UCenter\bin\Debug\DS.Web.UCenter.XML
+D:\git\ucenterapidotnet-18413\src\DS.Web.UCenter\bin\Debug\DS.Web.UCenter.dll
+D:\git\ucenterapidotnet-18413\src\DS.Web.UCenter\bin\Debug\DS.Web.UCenter.pdb
+D:\git\ucenterapidotnet-18413\src\DS.Web.UCenter\obj\Debug\DS.Web.UCenter.csproj.CoreCompileInputs.cache
+D:\git\ucenterapidotnet-18413\src\DS.Web.UCenter\obj\Debug\DS.Web.UCenter.dll
+D:\git\ucenterapidotnet-18413\src\DS.Web.UCenter\obj\Debug\DS.Web.UCenter.pdb
+D:\git\ucenterapidotnet-18413\src\DS.Web.UCenter\obj\Debug\DS.Web.UCenter.csprojResolveAssemblyReference.cache
